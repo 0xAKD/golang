@@ -32,7 +32,7 @@ func main() {
 
 	// || OR
 	if num > 10 || num < 20 {
-		fmt.Println("One of the conditions are true")
+		fmt.Println("Either of the conditions are true")
 	} else {
 		fmt.Println("False")
 	}
